@@ -1,6 +1,7 @@
 import React from 'react'
 import TENLOGO2 from '../Images/TENLOGO2.png';
 import './Header.css';
+import {Link} from 'react-router-dom'
 
 export default function Header() {
 return (
@@ -15,11 +16,11 @@ return (
 
         <div>
         <ul>
-            <li><a href="/">Home</a></li>
-            <li><a href="/onlinecourses">Online Courses </a></li>
-            <li><a href="/testimonials">Testimonials</a></li>
-            <li><a href="/aboutus">About Us</a></li>
-            <li><a href="/login">Log In</a></li>
+            <li><div><Link to="/" className="newy">Home </Link></div></li>
+            <li><div><Link to="/onlinecourses" className="newy">Online Courses </Link></div></li>
+            <li><div><Link to="/testimonials" className="newy">Testimonials</Link></div></li>
+            <li><div><Link to="/aboutus" className="newy">About Us</Link></div></li>
+            <li><div><Link to="/login" className="newy">Log In</Link></div></li>
         </ul>
         </div>
     </div>

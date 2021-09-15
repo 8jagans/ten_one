@@ -37,14 +37,14 @@ li {
     float: left;
     font-size: 125%;
 }
-li a {
+.newy {
     display: block;
     color: white;
     text-align: center;
     padding: 10px 15px;
     text-decoration: none;
 }
-li a:hover {
+.newy:hover {
     background-color: #ffd770;
     color: black;
 }
