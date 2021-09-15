@@ -1,0 +1,26 @@
+.ContactUs {
+    background-color: #4169E1;
+    background-image: linear-gradient(180deg,#4169E1, #000000);
+
+}
+
+.heading3 {
+    font-size: 300%;
+    text-align: center;
+    font-family: 'Hammersmith One', sans-serif;
+    color: white;
+    margin : 0%;
+}
+
+.I {
+    width: 10%;
+}
+
+.T {
+    font-size: 150%;
+    color: white;
+}
+.cus {
+    display: flex;
+    text-align: center;
+}

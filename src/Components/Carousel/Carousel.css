@@ -1,0 +1,32 @@
+.caro {
+    max-width: 98%;
+    height: 350px;
+    margin:1%;
+    margin-top:0%;
+    background-color:#008B8B;
+    color: white;
+    overflow : hidden;
+    text-align: center;
+}
+
+.para {
+    text-align: center;
+    font-size: 100%;
+    padding: 10%;
+    padding-bottom: 0%;
+ }
+
+.name {
+    font-size: 80%;
+}
+
+
+.carousel-control-next, .carousel-control-prev {
+    position: absolute;
+    color: black;
+    margin: -3%;
+}
+
+.carousel-item {
+    transition: transform .5s ease-in-out;
+}

@@ -1,0 +1,55 @@
+.title2 {
+    font-size: 400%;
+    text-align: center;
+    font-family: 'Hammersmith One', sans-serif;
+    margin-bottom: 0%;
+}
+
+.head {
+    background-color: #800080;
+    color: white;
+}
+
+.br1 {
+    background-color: #DDA0DD;
+}
+
+.cards {
+    margin : 0%;
+    padding: 1%;
+    overflow: hidden;
+
+}
+
+.containr {
+    background-color: violet;
+    margin-top : 3%;
+    margin-left: 3%;
+    width: 45%;
+    height: 181px;
+    float: left;
+    border-radius: 13px 0px 13px 0px;
+    box-shadow: -5px -5px #800080;
+    transition-duration: 0.5s;
+
+}
+.containr:hover {
+    box-shadow: 5px 5px 10px 5px #800080;
+}
+
+.texty {
+    text-align: center;
+    margin-top: 8%;
+    font-weight: 500;
+    font-family:'Saira Semi Condensed', sans-serif;
+    font-size: 125%;
+
+
+}
+
+.imgc {
+    width: 54%;
+    float: left;
+    border-radius: 13px 0px 0px 0px;
+
+}

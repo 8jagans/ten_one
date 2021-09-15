@@ -1,0 +1,56 @@
+.Header {
+    background-color: #ffd770;
+    padding:15px;
+    padding-bottom: 1%;
+    text-align: right;
+    font-family:'Saira Semi Condensed', sans-serif;
+
+    
+}
+.Header-title {
+    font-family:'Saira Semi Condensed', sans-serif;
+    color: black;
+    font-size: 40px;
+    margin-top : 1%;
+    margin-bottom: 0;
+    margin-right: 2%;
+}
+.Header-logo {
+    width : 5%;
+    float: left;
+    padding : 0;
+    margin-left: 2%;
+    box-shadow: 0px 0px 15px 1px #404040;
+    border-radius: 100%;
+}
+
+ul {
+    font-family:'Saira Semi Condensed', sans-serif;
+    list-style-type: none;
+    margin: 0;
+    margin-left: auto;
+    padding: 0;
+    overflow: hidden;
+    background-color: #FF6347;
+}
+li {
+    float: left;
+    font-size: 125%;
+}
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 10px 15px;
+    text-decoration: none;
+}
+li a:hover {
+    background-color: #ffd770;
+    color: black;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    border: 0; 
+}

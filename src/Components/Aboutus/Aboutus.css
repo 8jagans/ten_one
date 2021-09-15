@@ -1,0 +1,37 @@
+.Aboutus {
+    background-image: linear-gradient(to bottom right,#56B400, #56B601);
+    color: white;
+}
+
+.title {
+    font-size: 450%;
+    text-align: center;
+    font-family: 'Hammersmith One', sans-serif;
+
+}
+
+.quotes {
+    font-size: 400%;
+    text-align: center;
+    font-family: 'Philosopher', sans-serif;
+    background-image: url("../Images/C09.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+    text-shadow: 1px 1px 30px yellow;
+    padding: 5%;
+    border-radius: 25px ;
+    margin-left: 6%;
+    margin-right: 6%;
+
+}
+
+.para2 {
+    text-align: center;
+    padding: 5%;
+    font-size: 150%;
+    color: white;
+    margin-bottom: 0%;
+    font-family: 'Hammersmith One', sans-serif;
+
+}

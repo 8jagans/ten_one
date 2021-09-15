@@ -1,0 +1,68 @@
+.footer {
+    color: white;
+    background-image: url("../Images/F01.png");
+    background-size:100%;
+    background-repeat: no-repeat; 
+    padding: 0.5%;
+    padding-left: 4%;
+    font-family: 'Arima Madurai';
+    display: grid ;
+    grid-template-columns: 20% 20% 20% 20% 20%;
+    overflow: hidden;
+
+}
+.footer h1 {
+    font-size:200%;
+    padding-top: 5%;
+}
+.footer-logo {
+      width:40%;
+      position: relative;
+      top: 20%;
+      left : 20%;
+      border-radius: 100px;
+      box-shadow: 0px 0px 30px 1px #404040;
+      margin-left: 25%;
+      transition: 0.3s;
+  }
+  .footer-logo:hover {
+      box-shadow: 0px 0px 30px 10px #4d4d4d;
+  }
+  
+  .Footer-sm1 {
+      width: 25%;
+      position: relative;
+      margin-left: 120%;
+      top : 28%;
+      transition: 0.5s;
+  }
+  .Footer-sm2 {
+      width:25%;
+      position: relative;
+      margin-left: 60%;
+      top : 28%;
+      transition: 0.5s;
+  }
+  .Footer-sm3 {
+      width:25%;
+      position: relative;
+      margin-right: 30%;
+      top : 28%;
+      transition: 0.5s;
+  }
+  .Footer-sm1:hover
+  {
+    transform: scale(1.3);
+  }
+  .Footer-sm2:hover
+  {
+    transform: scale(1.3);
+  }
+  .Footer-sm3:hover
+  {
+    transform: scale(1.3);
+  }
+  .foot {
+      color: yellow;
+  }
+  
